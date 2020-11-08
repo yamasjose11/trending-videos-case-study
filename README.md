@@ -1,4 +1,4 @@
-# trending-videos-case-study
+# Trending Videos Case Study
 
 Deliverable
 
