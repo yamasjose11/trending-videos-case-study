@@ -1,4 +1,4 @@
-# Trending Videos Case Study
+# Trending Youtube Videos Case Study
 
 Deliverable
 
